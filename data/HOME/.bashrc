@@ -97,7 +97,7 @@ cowsay -f eyes "D@F Hacker" | lolcat
 figlet -f standard "Chust Taufik" | lolcat
 echo "===================================" | lolcat
 date | lolcat
-
+percobaan
 
 
 # EOF
